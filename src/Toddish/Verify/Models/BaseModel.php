@@ -1,7 +1,7 @@
 <?php
 namespace Toddish\Verify\Models;
 
-class BaseModel extends \LaravelBook\Ardent
+class BaseModel extends \LaravelBook\Ardent\Ardent
 {
     /**
      * Table prefix
