@@ -18,7 +18,7 @@
     "homepage": "https://github.com/ToddHossack/Verify-L4/",
     "require": {
         "php": ">=5.3.0",
-		"laravelbook/ardent": "dev-master"
+		"toddhossack/ardent": "dev-master"
     },
     "autoload": {
         "classmap": [
